@@ -1,4 +1,4 @@
-# hexapods
+# hexapod Prototype
 
 This reporisory contains my personal Hexapod Robot prototypes M5Stack/Micropython code samples and experiments.
 
